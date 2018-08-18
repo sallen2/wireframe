@@ -1,0 +1,53 @@
+header{
+    background-color: #eee;
+    width: 99.9%;
+    height: 60px;
+}
+
+.myTextAlign{
+    text-align: center;
+}
+
+nav{
+    background-color: #eee;
+    width: 99.9%;
+    height: 70px;
+}
+
+section{
+    margin-top: 20px;
+    width: 65%;
+    height: 300px;
+    float: left;
+    background-color: #eee;
+}
+
+aside{
+    margin-top: 20px;
+    width: 33.3%;
+    height: 300px;
+    float: right;
+    background-color: #eee;
+}
+
+article{
+    padding: 15px;
+    margin: 10px;
+    position: relative;
+    height: 200px;
+    background-color: #999;
+}
+
+div{
+    position: relative;
+    margin: 10px;
+    height: 35%;
+    background-color: #eee;
+}
+
+footer{
+    position: relative;
+    background-color: #eee;
+    height: 60px;
+    bottom: -340px;
+}
